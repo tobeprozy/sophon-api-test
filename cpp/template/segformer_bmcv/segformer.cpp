@@ -152,7 +152,7 @@ int SegFormer::pre_process(const std::vector<bm_image> &images)
       memset(&copyToAttr, 0, sizeof(copyToAttr));
       copyToAttr.start_x = 0;
       copyToAttr.start_y = 0;
-      copyToAttr.if_padding = 1;
+      copyToAttr.if_padding = 1
       bmcv_image_copy_to(m_bmContext->handle(), copyToAttr, image1, image_aligned);
     }
     else

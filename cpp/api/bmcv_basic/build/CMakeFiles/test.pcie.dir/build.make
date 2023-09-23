@@ -105,41 +105,41 @@ test_pcie_OBJECTS = \
 # External object files for target test.pcie
 test_pcie_EXTERNAL_OBJECTS =
 
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: CMakeFiles/test.pcie.dir/main.cpp.o
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: CMakeFiles/test.pcie.dir/home/zhiyuanzhang/sophon/sophon_api_test/cpp/src/ff_decode.cpp.o
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: CMakeFiles/test.pcie.dir/build.make
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavcodec.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavformat.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavutil.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavfilter.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavdevice.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libswscale.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libswresample.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_dnn.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_freetype.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_gapi.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_ml.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_objdetect.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_photo.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_stitching.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_video.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/libsophon-current/lib/libbmlib.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/libsophon-current/lib/libbmrt.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/libsophon-current/lib/libbmcv.so
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_calib3d.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_features2d.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_flann.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_highgui.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_videoio.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_imgcodecs.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_imgproc.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_core.so.4.1.0-sophon-0.7.0
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie: CMakeFiles/test.pcie.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie"
+test.pcie: CMakeFiles/test.pcie.dir/main.cpp.o
+test.pcie: CMakeFiles/test.pcie.dir/home/zhiyuanzhang/sophon/sophon_api_test/cpp/src/ff_decode.cpp.o
+test.pcie: CMakeFiles/test.pcie.dir/build.make
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavcodec.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavformat.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavutil.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavfilter.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libavdevice.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libswscale.so
+test.pcie: /opt/sophon/sophon-ffmpeg-latest/lib/libswresample.so
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_dnn.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_freetype.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_gapi.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_ml.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_objdetect.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_photo.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_stitching.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_video.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/libsophon-current/lib/libbmlib.so
+test.pcie: /opt/sophon/libsophon-current/lib/libbmrt.so
+test.pcie: /opt/sophon/libsophon-current/lib/libbmcv.so
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_calib3d.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_features2d.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_flann.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_highgui.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_videoio.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_imgcodecs.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_imgproc.so.4.1.0-sophon-0.7.0
+test.pcie: /opt/sophon/sophon-opencv-latest/lib/libopencv_core.so.4.1.0-sophon-0.7.0
+test.pcie: CMakeFiles/test.pcie.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable test.pcie"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test.pcie.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/test.pcie.dir/build: /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/test.pcie
+CMakeFiles/test.pcie.dir/build: test.pcie
 .PHONY : CMakeFiles/test.pcie.dir/build
 
 CMakeFiles/test.pcie.dir/clean:

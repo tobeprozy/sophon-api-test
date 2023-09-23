@@ -456,4 +456,9 @@ CMakeFiles/test.pcie.dir/main.cpp.o: \
  /opt/sophon/sophon-ffmpeg-latest/include/libavutil/imgutils.h \
  /opt/sophon/sophon-ffmpeg_0.7.0/include/libavutil/pixdesc.h \
  /opt/sophon/sophon-ffmpeg-latest/include/libswscale/swscale.h \
- /opt/sophon/sophon-ffmpeg-latest/include/libswscale/version.h
+ /opt/sophon/sophon-ffmpeg-latest/include/libswscale/version.h \
+ /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/../../include/bmnn_utils.h \
+ /opt/sophon/libsophon-current/include/bmruntime_cpp.h \
+ /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/../../include/utils.hpp \
+ /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/../../include/bm_wrapper.hpp \
+ /usr/include/x86_64-linux-gnu/sys/time.h

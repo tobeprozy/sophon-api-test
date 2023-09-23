@@ -255,7 +255,7 @@ the_libbmcv.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmcv.so
 the_libbmcv.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmcv.so.0
 
 //Path to a library.
-the_libbmcv.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmcv.so.0.6.1
+the_libbmcv.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmcv.so.0.7.0
 
 //Path to a library.
 the_libbmion.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmion.so
@@ -264,7 +264,7 @@ the_libbmion.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmion.so
 the_libbmion.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmion.so.0
 
 //Path to a library.
-the_libbmion.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmion.so.0.6.1
+the_libbmion.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmion.so.0.7.0
 
 //Path to a library.
 the_libbmjpuapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpuapi.so
@@ -273,7 +273,7 @@ the_libbmjpuapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpuapi.so
 the_libbmjpuapi.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpuapi.so.0
 
 //Path to a library.
-the_libbmjpuapi.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpuapi.so.0.6.1
+the_libbmjpuapi.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpuapi.so.0.7.0
 
 //Path to a library.
 the_libbmjpulite.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpulite.so
@@ -282,7 +282,7 @@ the_libbmjpulite.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpulite.so
 the_libbmjpulite.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpulite.so.0
 
 //Path to a library.
-the_libbmjpulite.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpulite.so.0.6.1
+the_libbmjpulite.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmjpulite.so.0.7.0
 
 //Path to a library.
 the_libbmlib.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmlib.so
@@ -306,7 +306,7 @@ the_libbmvideo.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvideo.so
 the_libbmvideo.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvideo.so.0
 
 //Path to a library.
-the_libbmvideo.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvideo.so.0.6.1
+the_libbmvideo.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvideo.so.0.7.0
 
 //Path to a library.
 the_libbmvppapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvppapi.so
@@ -315,7 +315,7 @@ the_libbmvppapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvppapi.so
 the_libbmvppapi.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvppapi.so.0
 
 //Path to a library.
-the_libbmvppapi.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvppapi.so.0.6.1
+the_libbmvppapi.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvppapi.so.0.7.0
 
 //Path to a library.
 the_libbmvpuapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpuapi.so
@@ -324,7 +324,7 @@ the_libbmvpuapi.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpuapi.so
 the_libbmvpuapi.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpuapi.so.0
 
 //Path to a library.
-the_libbmvpuapi.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpuapi.so.0.6.1
+the_libbmvpuapi.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpuapi.so.0.7.0
 
 //Path to a library.
 the_libbmvpulite.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpulite.so
@@ -333,7 +333,7 @@ the_libbmvpulite.so:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpulite.so
 the_libbmvpulite.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpulite.so.0
 
 //Path to a library.
-the_libbmvpulite.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpulite.so.0.6.1
+the_libbmvpulite.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libbmvpulite.so.0.7.0
 
 //Path to a library.
 the_libcpuop.so:FILEPATH=/opt/sophon/libsophon-current/lib/libcpuop.so
@@ -360,7 +360,7 @@ the_libvpp.so:FILEPATH=/opt/sophon/libsophon-current/lib/libvpp.so
 the_libvpp.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libvpp.so.0
 
 //Path to a library.
-the_libvpp.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libvpp.so.0.6.1
+the_libvpp.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libvpp.so.0.7.0
 
 //Path to a library.
 the_libvpp_cmodel.so:FILEPATH=/opt/sophon/libsophon-current/lib/libvpp_cmodel.so
@@ -375,7 +375,7 @@ the_libyuv.so:FILEPATH=/opt/sophon/libsophon-current/lib/libyuv.so
 the_libyuv.so.0:FILEPATH=/opt/sophon/libsophon-current/lib/libyuv.so.0
 
 //Path to a library.
-the_libyuv.so.0.6.1:FILEPATH=/opt/sophon/libsophon-current/lib/libyuv.so.0.6.1
+the_libyuv.so.0.7.0:FILEPATH=/opt/sophon/libsophon-current/lib/libyuv.so.0.7.0
 
 //Path to a library.
 the_sophon-rpc:FILEPATH=the_sophon-rpc-NOTFOUND

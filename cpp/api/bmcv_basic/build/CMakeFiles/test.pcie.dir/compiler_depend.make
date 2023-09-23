@@ -489,8 +489,11 @@ CMakeFiles/test.pcie.dir/home/zhiyuanzhang/sophon/sophon_api_test/cpp/src/ff_dec
   /usr/lib/gcc/x86_64-linux-gnu/9/include/xmmintrin.h
 
 CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/main.cpp \
+  /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/bm_wrapper.hpp \
+  /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/bmnn_utils.h \
   /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/ff_decode.hpp \
   /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/json.hpp \
+  /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/utils.hpp \
   /opt/sophon/libsophon-0.4.9/include/bmcv_api_ext.h \
   /opt/sophon/libsophon-0.4.9/include/bmdef.h \
   /opt/sophon/libsophon-0.4.9/include/bmlib_runtime.h \
@@ -514,6 +517,7 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
   /opt/sophon/libsophon-current/include/bmcv_api.h \
   /opt/sophon/libsophon-current/include/bmcv_api_ext.h \
   /opt/sophon/libsophon-current/include/bmlib_runtime.h \
+  /opt/sophon/libsophon-current/include/bmruntime_cpp.h \
   /opt/sophon/libsophon-current/include/bmruntime_interface.h \
   /opt/sophon/libsophon-current/include/libyuv.h \
   /opt/sophon/libsophon-current/include/libyuv/basic_types.h \
@@ -998,6 +1002,7 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/sys/stat.h \
+  /usr/include/x86_64-linux-gnu/sys/time.h \
   /usr/include/x86_64-linux-gnu/sys/types.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/emmintrin.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/float.h \
@@ -1043,6 +1048,8 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
 /opt/sophon/libsophon-0.4.9/include/bmcv_api_ext.h:
 
 /home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/json.hpp:
+
+/home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/bmnn_utils.h:
 
 /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/main.cpp:
 
@@ -1536,6 +1543,8 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
 
 /opt/sophon/sophon-opencv_0.7.0/include/opencv4/opencv2/core/base.hpp:
 
+/home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/bm_wrapper.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
 /opt/sophon/sophon-ffmpeg-latest/include/libavformat/avformat.h:
@@ -1581,6 +1590,8 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
 /usr/include/x86_64-linux-gnu/bits/stdio.h:
 
 /opt/sophon/sophon-opencv_0.7.0/include/opencv4/opencv2/video/tracking.hpp:
+
+/opt/sophon/libsophon-current/include/bmruntime_cpp.h:
 
 /opt/sophon/libsophon-current/include/bmcv_api_ext.h:
 
@@ -1761,6 +1772,8 @@ CMakeFiles/test.pcie.dir/main.cpp.o: /home/zhiyuanzhang/sophon/sophon_api_test/c
 /opt/sophon/sophon-opencv_0.7.0/include/opencv4/opencv2/imgproc/vpp.hpp:
 
 /usr/include/c++/9/bits/stl_function.h:
+
+/home/zhiyuanzhang/sophon/sophon_api_test/cpp/include/utils.hpp:
 
 /usr/include/asm-generic/errno.h:
 
