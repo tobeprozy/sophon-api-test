@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/resnet_bmcv.pcie.dir/main.cpp.o -o /home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/resnet_bmcv_faiss/resnet_bmcv.pcie   -L/opt/sophon/libsophon-current/lib  -Wl,-rpath,/opt/sophon/libsophon-current/lib /opt/sophon/libsophon-current/lib/libbmlib.so /opt/sophon/libsophon-current/lib/libbmrt.so /opt/sophon/libsophon-current/lib/libbmcv.so -lpthread 

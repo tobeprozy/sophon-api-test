@@ -21,6 +21,10 @@
 #include "bmnn_utils.h"
 #include "utils.hpp"
 #include "bm_wrapper.hpp"
+#include <cvwrapper.h>
+
+using json = nlohmann::json;
+using namespace std;
 
 
 using json = nlohmann::json;
@@ -41,7 +45,7 @@ int main(int argc, char *argv[]){
     sail::Decoder decoder((const string)img_file, true, dev_id);
     int ret = decoder.read(handle, bmimg);
 
-    bmcv.imwrite("bmimg.jpg")
+    bmcv.imwrite("bmimg.jpg",bmimg.data());
 
     cv::Mat cvmat2;
     cvmat2=cv::imread(img_file);

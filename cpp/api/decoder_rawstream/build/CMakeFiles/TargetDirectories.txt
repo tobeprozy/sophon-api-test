@@ -1,3 +1,0 @@
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/decoder_rawstream/build/CMakeFiles/test.pcie.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/decoder_rawstream/build/CMakeFiles/edit_cache.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/decoder_rawstream/build/CMakeFiles/rebuild_cache.dir

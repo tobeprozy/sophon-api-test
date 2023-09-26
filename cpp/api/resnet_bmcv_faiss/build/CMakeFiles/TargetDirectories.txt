@@ -1,3 +1,0 @@
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/resnet_bmcv_faiss/build/CMakeFiles/resnet_bmcv.pcie.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/resnet_bmcv_faiss/build/CMakeFiles/edit_cache.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/resnet_bmcv_faiss/build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/build/CMakeFiles/test.pcie.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/build/CMakeFiles/edit_cache.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/api/bmcv_basic/build/CMakeFiles/rebuild_cache.dir
