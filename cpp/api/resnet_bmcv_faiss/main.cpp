@@ -152,6 +152,9 @@ int main(int argc, char* argv[]) {
         input_data[row_count * vec_dims + col_count] = val;
         col_count++;
       }
+       if(row_count==0){
+          vec_dims=col_count;
+        }
       row_count++;
     }
   }
