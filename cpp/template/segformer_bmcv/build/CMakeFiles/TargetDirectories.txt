@@ -1,3 +1,0 @@
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/template/segformer_bmcv/build/CMakeFiles/segformer_bmcv.pcie.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/template/segformer_bmcv/build/CMakeFiles/edit_cache.dir
-/home/zhiyuanzhang/sophon/sophon_api_test/cpp/template/segformer_bmcv/build/CMakeFiles/rebuild_cache.dir
