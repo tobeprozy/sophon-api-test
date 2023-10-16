@@ -1,0 +1,28 @@
+import sophon.sail as sail
+ 
+def main():
+    dev_id = 0
+    decformat = "h265"
+    h265_decoder = sail.Decoder_RawStream(dev_id, decformat)
+ 
+    handle = sail.Handle(dev_id)
+    bmcv = sail.Bmcv(handle)
+ 
+ 
+    # 读取H.264数据并处理图像
+    with open("elevator-1080p-25fps-4000kbps.h265", "rb") as h264_file:
+        h264_data = h264_file.read()
+        image = sail.BMImage()  # 创建bm_image对象
+        continue_frame = True
+    while(True):
+        result = h265_decoder.read(h264_data,image, continue_frame)
+ 
+        if result == 0:
+            print("成功处理H.264数据。")
+        else:
+            print("处理H.264数据时出错。")
+ 
+        bmcv.imwrite("save_path.jpg", image)
+ 
+if __name__ == '__main__':
+    main()
