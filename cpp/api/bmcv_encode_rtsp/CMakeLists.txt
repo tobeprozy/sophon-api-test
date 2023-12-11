@@ -39,7 +39,7 @@ if (${TARGET_ARCH} STREQUAL "pcie")
     aux_source_directory(. SRC_FILES)
     aux_source_directory(../../src/ SRC_FILES)
     add_executable(test.pcie ${SRC_FILES})
-    target_link_libraries(test.pcie ${FFMPEG_LIBS} ${OpenCV_LIBS} ${the_libbmlib.so} ${the_libbmrt.so} ${the_libbmcv.so} -lpthread)
+    target_link_libraries(test.pcie ${FFMPEG_LIBS} ${OpenCV_LIBS} ${the_libbmlib.so} ${the_libbmrt.so} ${the_libbmcv.so} ${the_libavutil.so} -lpthread)
 
 elseif (${TARGET_ARCH} STREQUAL "soc")
     message( "${TARGET_ARCH} mode, starting......")

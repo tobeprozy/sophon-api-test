@@ -28,7 +28,15 @@ using namespace std;
 using namespace std;
 
 int main(int argc, char* argv[]) {
+
+  std::string filename =
+      "../../../../datasets/videos/elevator-1080p-25fps-4000kbps.h264";
+
+
   av_register_all();
+
+  AVFormatContext *ifmt_ctx=NULL;
+
 
   AVCodec* pCodec = avcodec_find_decoder(AV_CODEC_ID_H264);
   AVCodecContext* pContext = avcodec_alloc_context3(pCodec);
@@ -40,32 +48,25 @@ int main(int argc, char* argv[]) {
   av_dict_set_int(&opts, "extra_frame_buffer_num", 5,
                   0);  // if we use dma_buffer mode
 
+
+  avformat_open_input(&ifmt_ctx, filename.c_str(), NULL, &opts);
+  int ret = avformat_find_stream_info(ifmt_ctx, NULL);
+
   if (avcodec_open2(pContext, pCodec, &opts) < 0) {
     cerr << "Failed to open codec" << endl;
     return -1;
   }
 
-  std::string input =
-      "../../../../datasets/videos/elevator-1080p-25fps-4000kbps.h264";
-  std::ifstream file(input, std::ios::binary);
-  if (!file) {
-    std::cout << "Failed to open input file" << std::endl;
-    return -1;
-  }
-  std::vector<uint8_t> buffer(std::istreambuf_iterator<char>(file), {});
-
-
   // 分配解码后的帧数据存储空间
   AVFrame* pFrame = av_frame_alloc();
+
+
 
   int index = 0;
   while (true) {
     AVPacket packet;
     av_init_packet(&packet);
 
-    // 设置Packet的数据和大小
-    packet.data = buffer.data() + index;
-    packet.size = buffer.size() - index;
     int frameFinished = 0;
     // 解码视频帧
     int ret = avcodec_decode_video2(pContext, pFrame, &frameFinished, &packet);

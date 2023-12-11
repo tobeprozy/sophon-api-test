@@ -1,0 +1,2107 @@
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:41.677] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:41.679] [info] encode params: width=1280
+[2023-11-27 16:06:41.679] [info] encode params: height=720
+[2023-11-27 16:06:41.679] [info] encode params: gop=30
+[2023-11-27 16:06:41.679] [info] encode params: gop_preset=3
+[2023-11-27 16:06:41.679] [info] encode params: framerate=25
+[2023-11-27 16:06:41.679] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:41.881] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:41.882] [info] encode params: width=1280
+[2023-11-27 16:06:41.882] [info] encode params: height=720
+[2023-11-27 16:06:41.882] [info] encode params: gop=30
+[2023-11-27 16:06:41.882] [info] encode params: gop_preset=3
+[2023-11-27 16:06:41.882] [info] encode params: framerate=25
+[2023-11-27 16:06:41.882] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:41.977] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:41.977] [info] encode params: width=1280
+[2023-11-27 16:06:41.977] [info] encode params: height=720
+[2023-11-27 16:06:41.977] [info] encode params: gop=30
+[2023-11-27 16:06:41.977] [info] encode params: gop_preset=3
+[2023-11-27 16:06:41.977] [info] encode params: framerate=25
+[2023-11-27 16:06:41.977] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:42.093] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:42.094] [info] encode params: width=1280
+[2023-11-27 16:06:42.094] [info] encode params: height=720
+[2023-11-27 16:06:42.094] [info] encode params: gop=30
+[2023-11-27 16:06:42.094] [info] encode params: gop_preset=3
+[2023-11-27 16:06:42.094] [info] encode params: framerate=25
+[2023-11-27 16:06:42.094] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:42.207] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:42.208] [info] encode params: width=1280
+[2023-11-27 16:06:42.208] [info] encode params: height=720
+[2023-11-27 16:06:42.208] [info] encode params: gop=30
+[2023-11-27 16:06:42.208] [info] encode params: gop_preset=3
+[2023-11-27 16:06:42.208] [info] encode params: framerate=25
+[2023-11-27 16:06:42.208] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:42.345] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:42.345] [info] encode params: width=1280
+[2023-11-27 16:06:42.345] [info] encode params: height=720
+[2023-11-27 16:06:42.345] [info] encode params: gop=30
+[2023-11-27 16:06:42.345] [info] encode params: gop_preset=3
+[2023-11-27 16:06:42.345] [info] encode params: framerate=25
+[2023-11-27 16:06:42.346] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:06:42.465] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:06:42.466] [info] encode params: width=1280
+[2023-11-27 16:06:42.466] [info] encode params: height=720
+[2023-11-27 16:06:42.466] [info] encode params: gop=30
+[2023-11-27 16:06:42.466] [info] encode params: gop_preset=3
+[2023-11-27 16:06:42.466] [info] encode params: framerate=25
+[2023-11-27 16:06:42.466] [info] encode params: bitrate=2000
+[2023-11-27 16:07:56.815] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:56.866] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:56.971] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.005] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.157] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293446
+encoder over, process id: 1293446
+[2023-11-27 16:07:57.193] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293451
+encoder over, process id: 1293451
+[2023-11-27 16:07:57.252] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.288] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.379] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.423] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.571] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.578] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.594] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:07:57.595] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.651] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.661] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:07:57.676] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293447
+encoder over, process id: 1293447
+[2023-11-27 16:07:57.780] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293448
+encoder over, process id: 1293448
+[2023-11-27 16:07:57.839] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293452
+encoder over, process id: 1293452
+[2023-11-27 16:07:57.869] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1293450
+encoder over, process id: 1293450
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.146] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.146] [info] encode params: width=1280
+[2023-11-27 16:07:58.146] [info] encode params: height=720
+[2023-11-27 16:07:58.146] [info] encode params: gop=30
+[2023-11-27 16:07:58.146] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.146] [info] encode params: framerate=25
+[2023-11-27 16:07:58.146] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.322] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.323] [info] encode params: width=1280
+[2023-11-27 16:07:58.323] [info] encode params: height=720
+[2023-11-27 16:07:58.323] [info] encode params: gop=30
+[2023-11-27 16:07:58.323] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.323] [info] encode params: framerate=25
+[2023-11-27 16:07:58.323] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.424] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.426] [info] encode params: width=1280
+[2023-11-27 16:07:58.426] [info] encode params: height=720
+[2023-11-27 16:07:58.426] [info] encode params: gop=30
+[2023-11-27 16:07:58.426] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.426] [info] encode params: framerate=25
+[2023-11-27 16:07:58.426] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.537] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.537] [info] encode params: width=1280
+[2023-11-27 16:07:58.537] [info] encode params: height=720
+[2023-11-27 16:07:58.537] [info] encode params: gop=30
+[2023-11-27 16:07:58.537] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.537] [info] encode params: framerate=25
+[2023-11-27 16:07:58.537] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.698] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.703] [info] encode params: width=1280
+[2023-11-27 16:07:58.703] [info] encode params: height=720
+[2023-11-27 16:07:58.703] [info] encode params: gop=30
+[2023-11-27 16:07:58.703] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.703] [info] encode params: framerate=25
+[2023-11-27 16:07:58.703] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.808] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.811] [info] encode params: width=1280
+[2023-11-27 16:07:58.811] [info] encode params: height=720
+[2023-11-27 16:07:58.811] [info] encode params: gop=30
+[2023-11-27 16:07:58.811] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.811] [info] encode params: framerate=25
+[2023-11-27 16:07:58.811] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:07:58.962] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:07:58.963] [info] encode params: width=1280
+[2023-11-27 16:07:58.963] [info] encode params: height=720
+[2023-11-27 16:07:58.963] [info] encode params: gop=30
+[2023-11-27 16:07:58.963] [info] encode params: gop_preset=3
+[2023-11-27 16:07:58.963] [info] encode params: framerate=25
+[2023-11-27 16:07:58.963] [info] encode params: bitrate=2000
+[2023-11-27 16:09:12.510] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.521] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.548] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:12.567] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:12.688] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.715] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:12.756] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.770] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.779] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:12.796] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:12.804] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:12.985] [error] sail.Encoder: encode failed for one frame in cache queue: -1313558101
+[2023-11-27 16:09:12.989] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:09:13.017] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294237
+encoder over, process id: 1294237
+[2023-11-27 16:09:13.021] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294234
+encoder over, process id: 1294234
+[2023-11-27 16:09:13.044] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:13.049] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294235
+encoder over, process id: 1294235
+[2023-11-27 16:09:13.072] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294232
+encoder over, process id: 1294232
+[2023-11-27 16:09:13.093] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:09:13.095] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294233
+encoder over, process id: 1294233
+[2023-11-27 16:09:13.182] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294238
+encoder over, process id: 1294238
+[2023-11-27 16:09:13.233] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1294236
+encoder over, process id: 1294236
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:13.460] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:13.460] [info] encode params: width=1280
+[2023-11-27 16:09:13.460] [info] encode params: height=720
+[2023-11-27 16:09:13.460] [info] encode params: gop=30
+[2023-11-27 16:09:13.460] [info] encode params: gop_preset=3
+[2023-11-27 16:09:13.461] [info] encode params: framerate=25
+[2023-11-27 16:09:13.461] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:13.627] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:13.633] [info] encode params: width=1280
+[2023-11-27 16:09:13.633] [info] encode params: height=720
+[2023-11-27 16:09:13.633] [info] encode params: gop=30
+[2023-11-27 16:09:13.633] [info] encode params: gop_preset=3
+[2023-11-27 16:09:13.633] [info] encode params: framerate=25
+[2023-11-27 16:09:13.633] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:13.762] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:13.763] [info] encode params: width=1280
+[2023-11-27 16:09:13.763] [info] encode params: height=720
+[2023-11-27 16:09:13.763] [info] encode params: gop=30
+[2023-11-27 16:09:13.763] [info] encode params: gop_preset=3
+[2023-11-27 16:09:13.763] [info] encode params: framerate=25
+[2023-11-27 16:09:13.763] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:13.885] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:13.885] [info] encode params: width=1280
+[2023-11-27 16:09:13.885] [info] encode params: height=720
+[2023-11-27 16:09:13.885] [info] encode params: gop=30
+[2023-11-27 16:09:13.885] [info] encode params: gop_preset=3
+[2023-11-27 16:09:13.885] [info] encode params: framerate=25
+[2023-11-27 16:09:13.885] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:13.994] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:13.995] [info] encode params: width=1280
+[2023-11-27 16:09:13.995] [info] encode params: height=720
+[2023-11-27 16:09:13.995] [info] encode params: gop=30
+[2023-11-27 16:09:13.995] [info] encode params: gop_preset=3
+[2023-11-27 16:09:13.995] [info] encode params: framerate=25
+[2023-11-27 16:09:13.995] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:14.106] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:14.107] [info] encode params: width=1280
+[2023-11-27 16:09:14.107] [info] encode params: height=720
+[2023-11-27 16:09:14.107] [info] encode params: gop=30
+[2023-11-27 16:09:14.107] [info] encode params: gop_preset=3
+[2023-11-27 16:09:14.107] [info] encode params: framerate=25
+[2023-11-27 16:09:14.107] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:09:14.240] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:09:14.240] [info] encode params: width=1280
+[2023-11-27 16:09:14.240] [info] encode params: height=720
+[2023-11-27 16:09:14.240] [info] encode params: gop=30
+[2023-11-27 16:09:14.241] [info] encode params: gop_preset=3
+[2023-11-27 16:09:14.241] [info] encode params: framerate=25
+[2023-11-27 16:09:14.241] [info] encode params: bitrate=2000
+[2023-11-27 16:10:31.698] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:31.749] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:31.850] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:31.871] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:31.877] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:31.932] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:32.195] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:32.260] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:32.345] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295326
+encoder over, process id: 1295326
+[2023-11-27 16:10:32.351] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295327
+encoder over, process id: 1295327
+[2023-11-27 16:10:32.356] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295331
+encoder over, process id: 1295331
+[2023-11-27 16:10:32.368] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:32.388] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:32.390] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:32.423] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:10:32.434] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:32.461] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:10:32.565] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295329
+encoder over, process id: 1295329
+[2023-11-27 16:10:32.577] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295328
+encoder over, process id: 1295328
+[2023-11-27 16:10:32.611] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295330
+encoder over, process id: 1295330
+[2023-11-27 16:10:32.666] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1295332
+encoder over, process id: 1295332
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:32.897] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:32.899] [info] encode params: width=1280
+[2023-11-27 16:10:32.899] [info] encode params: height=720
+[2023-11-27 16:10:32.899] [info] encode params: gop=30
+[2023-11-27 16:10:32.899] [info] encode params: gop_preset=3
+[2023-11-27 16:10:32.899] [info] encode params: framerate=25
+[2023-11-27 16:10:32.899] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.055] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.056] [info] encode params: width=1280
+[2023-11-27 16:10:33.056] [info] encode params: height=720
+[2023-11-27 16:10:33.056] [info] encode params: gop=30
+[2023-11-27 16:10:33.056] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.056] [info] encode params: framerate=25
+[2023-11-27 16:10:33.056] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.173] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.178] [info] encode params: width=1280
+[2023-11-27 16:10:33.178] [info] encode params: height=720
+[2023-11-27 16:10:33.178] [info] encode params: gop=30
+[2023-11-27 16:10:33.178] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.178] [info] encode params: framerate=25
+[2023-11-27 16:10:33.178] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.296] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.296] [info] encode params: width=1280
+[2023-11-27 16:10:33.296] [info] encode params: height=720
+[2023-11-27 16:10:33.296] [info] encode params: gop=30
+[2023-11-27 16:10:33.296] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.297] [info] encode params: framerate=25
+[2023-11-27 16:10:33.297] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.427] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.427] [info] encode params: width=1280
+[2023-11-27 16:10:33.427] [info] encode params: height=720
+[2023-11-27 16:10:33.427] [info] encode params: gop=30
+[2023-11-27 16:10:33.427] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.427] [info] encode params: framerate=25
+[2023-11-27 16:10:33.428] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.540] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.541] [info] encode params: width=1280
+[2023-11-27 16:10:33.541] [info] encode params: height=720
+[2023-11-27 16:10:33.541] [info] encode params: gop=30
+[2023-11-27 16:10:33.541] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.541] [info] encode params: framerate=25
+[2023-11-27 16:10:33.541] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:10:33.660] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:10:33.661] [info] encode params: width=1280
+[2023-11-27 16:10:33.661] [info] encode params: height=720
+[2023-11-27 16:10:33.661] [info] encode params: gop=30
+[2023-11-27 16:10:33.661] [info] encode params: gop_preset=3
+[2023-11-27 16:10:33.661] [info] encode params: framerate=25
+[2023-11-27 16:10:33.661] [info] encode params: bitrate=2000
+[2023-11-27 16:11:45.119] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.144] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.169] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.192] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.300] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.337] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.387] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.488] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.595] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.600] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296384
+encoder over, process id: 1296384
+[2023-11-27 16:11:45.610] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.621] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:11:45.627] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296382
+encoder over, process id: 1296382
+[2023-11-27 16:11:45.648] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.710] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296385
+encoder over, process id: 1296385
+[2023-11-27 16:11:45.735] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.752] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:11:45.796] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296386
+encoder over, process id: 1296386
+[2023-11-27 16:11:45.815] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296383
+encoder over, process id: 1296383
+[2023-11-27 16:11:45.874] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296381
+encoder over, process id: 1296381
+[2023-11-27 16:11:45.906] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1296387
+encoder over, process id: 1296387
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.153] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.153] [info] encode params: width=1280
+[2023-11-27 16:11:46.154] [info] encode params: height=720
+[2023-11-27 16:11:46.154] [info] encode params: gop=30
+[2023-11-27 16:11:46.154] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.154] [info] encode params: framerate=25
+[2023-11-27 16:11:46.154] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.290] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.291] [info] encode params: width=1280
+[2023-11-27 16:11:46.291] [info] encode params: height=720
+[2023-11-27 16:11:46.291] [info] encode params: gop=30
+[2023-11-27 16:11:46.291] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.291] [info] encode params: framerate=25
+[2023-11-27 16:11:46.291] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.400] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.401] [info] encode params: width=1280
+[2023-11-27 16:11:46.401] [info] encode params: height=720
+[2023-11-27 16:11:46.401] [info] encode params: gop=30
+[2023-11-27 16:11:46.401] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.401] [info] encode params: framerate=25
+[2023-11-27 16:11:46.401] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.500] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.501] [info] encode params: width=1280
+[2023-11-27 16:11:46.501] [info] encode params: height=720
+[2023-11-27 16:11:46.501] [info] encode params: gop=30
+[2023-11-27 16:11:46.501] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.501] [info] encode params: framerate=25
+[2023-11-27 16:11:46.501] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.618] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.619] [info] encode params: width=1280
+[2023-11-27 16:11:46.619] [info] encode params: height=720
+[2023-11-27 16:11:46.619] [info] encode params: gop=30
+[2023-11-27 16:11:46.619] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.619] [info] encode params: framerate=25
+[2023-11-27 16:11:46.619] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.728] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.729] [info] encode params: width=1280
+[2023-11-27 16:11:46.729] [info] encode params: height=720
+[2023-11-27 16:11:46.729] [info] encode params: gop=30
+[2023-11-27 16:11:46.729] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.729] [info] encode params: framerate=25
+[2023-11-27 16:11:46.729] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:11:46.842] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:11:46.843] [info] encode params: width=1280
+[2023-11-27 16:11:46.843] [info] encode params: height=720
+[2023-11-27 16:11:46.843] [info] encode params: gop=30
+[2023-11-27 16:11:46.843] [info] encode params: gop_preset=3
+[2023-11-27 16:11:46.843] [info] encode params: framerate=25
+[2023-11-27 16:11:46.843] [info] encode params: bitrate=2000
+[2023-11-27 16:12:56.942] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:56.990] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:57.058] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:12:57.259] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:57.299] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:57.521] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:57.618] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:57.645] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297247
+encoder over, process id: 1297247
+[2023-11-27 16:12:57.660] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:57.710] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:57.772] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:57.819] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:57.923] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:57.987] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297246
+encoder over, process id: 1297246
+[2023-11-27 16:12:58.046] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:58.057] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:12:58.118] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297251
+encoder over, process id: 1297251
+[2023-11-27 16:12:58.124] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297250
+encoder over, process id: 1297250
+[2023-11-27 16:12:58.142] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:12:58.185] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297248
+encoder over, process id: 1297248
+[2023-11-27 16:12:58.297] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1297252
+encoder over, process id: 1297252
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:58.528] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:58.528] [info] encode params: width=1280
+[2023-11-27 16:12:58.529] [info] encode params: height=720
+[2023-11-27 16:12:58.529] [info] encode params: gop=30
+[2023-11-27 16:12:58.529] [info] encode params: gop_preset=3
+[2023-11-27 16:12:58.529] [info] encode params: framerate=25
+[2023-11-27 16:12:58.529] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:58.672] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:58.672] [info] encode params: width=1280
+[2023-11-27 16:12:58.672] [info] encode params: height=720
+[2023-11-27 16:12:58.672] [info] encode params: gop=30
+[2023-11-27 16:12:58.673] [info] encode params: gop_preset=3
+[2023-11-27 16:12:58.673] [info] encode params: framerate=25
+[2023-11-27 16:12:58.673] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:58.748] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:58.749] [info] encode params: width=1280
+[2023-11-27 16:12:58.749] [info] encode params: height=720
+[2023-11-27 16:12:58.749] [info] encode params: gop=30
+[2023-11-27 16:12:58.749] [info] encode params: gop_preset=3
+[2023-11-27 16:12:58.749] [info] encode params: framerate=25
+[2023-11-27 16:12:58.749] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:58.839] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:58.840] [info] encode params: width=1280
+[2023-11-27 16:12:58.840] [info] encode params: height=720
+[2023-11-27 16:12:58.840] [info] encode params: gop=30
+[2023-11-27 16:12:58.840] [info] encode params: gop_preset=3
+[2023-11-27 16:12:58.840] [info] encode params: framerate=25
+[2023-11-27 16:12:58.840] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:58.964] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:58.964] [info] encode params: width=1280
+[2023-11-27 16:12:58.964] [info] encode params: height=720
+[2023-11-27 16:12:58.964] [info] encode params: gop=30
+[2023-11-27 16:12:58.964] [info] encode params: gop_preset=3
+[2023-11-27 16:12:58.964] [info] encode params: framerate=25
+[2023-11-27 16:12:58.964] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:59.061] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:59.062] [info] encode params: width=1280
+[2023-11-27 16:12:59.062] [info] encode params: height=720
+[2023-11-27 16:12:59.062] [info] encode params: gop=30
+[2023-11-27 16:12:59.062] [info] encode params: gop_preset=3
+[2023-11-27 16:12:59.062] [info] encode params: framerate=25
+[2023-11-27 16:12:59.062] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:12:59.165] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:12:59.165] [info] encode params: width=1280
+[2023-11-27 16:12:59.165] [info] encode params: height=720
+[2023-11-27 16:12:59.165] [info] encode params: gop=30
+[2023-11-27 16:12:59.165] [info] encode params: gop_preset=3
+[2023-11-27 16:12:59.166] [info] encode params: framerate=25
+[2023-11-27 16:12:59.166] [info] encode params: bitrate=2000
+[2023-11-27 16:14:09.102] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:09.148] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:09.224] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:14:09.285] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:09.407] [info] sail.Encoder: released encoder completed.
+[2023-11-27 16:14:09.411] [info] sail.Encoder: releasing encoder.
+decoder over, process id: 1298005
+encoder over, process id: 1298005
+[2023-11-27 16:14:09.623] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298001
+encoder over, process id: 1298001
+[2023-11-27 16:14:09.644] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:09.680] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:09.729] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:09.768] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:09.769] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:09.815] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:09.994] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:10.001] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298007
+encoder over, process id: 1298007
+[2023-11-27 16:14:10.015] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:14:10.036] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:10.121] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298004
+encoder over, process id: 1298004
+[2023-11-27 16:14:10.134] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:14:10.138] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298010
+encoder over, process id: 1298010
+[2023-11-27 16:14:10.231] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298009
+encoder over, process id: 1298009
+[2023-11-27 16:14:10.275] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298002
+encoder over, process id: 1298002
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:10.503] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:10.504] [info] encode params: width=1280
+[2023-11-27 16:14:10.504] [info] encode params: height=720
+[2023-11-27 16:14:10.504] [info] encode params: gop=30
+[2023-11-27 16:14:10.504] [info] encode params: gop_preset=3
+[2023-11-27 16:14:10.504] [info] encode params: framerate=25
+[2023-11-27 16:14:10.504] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:10.676] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:10.677] [info] encode params: width=1280
+[2023-11-27 16:14:10.677] [info] encode params: height=720
+[2023-11-27 16:14:10.677] [info] encode params: gop=30
+[2023-11-27 16:14:10.677] [info] encode params: gop_preset=3
+[2023-11-27 16:14:10.677] [info] encode params: framerate=25
+[2023-11-27 16:14:10.677] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:10.767] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:10.768] [info] encode params: width=1280
+[2023-11-27 16:14:10.768] [info] encode params: height=720
+[2023-11-27 16:14:10.768] [info] encode params: gop=30
+[2023-11-27 16:14:10.768] [info] encode params: gop_preset=3
+[2023-11-27 16:14:10.768] [info] encode params: framerate=25
+[2023-11-27 16:14:10.768] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:10.869] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:10.869] [info] encode params: width=1280
+[2023-11-27 16:14:10.869] [info] encode params: height=720
+[2023-11-27 16:14:10.869] [info] encode params: gop=30
+[2023-11-27 16:14:10.869] [info] encode params: gop_preset=3
+[2023-11-27 16:14:10.870] [info] encode params: framerate=25
+[2023-11-27 16:14:10.870] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:10.970] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:10.971] [info] encode params: width=1280
+[2023-11-27 16:14:10.971] [info] encode params: height=720
+[2023-11-27 16:14:10.971] [info] encode params: gop=30
+[2023-11-27 16:14:10.971] [info] encode params: gop_preset=3
+[2023-11-27 16:14:10.971] [info] encode params: framerate=25
+[2023-11-27 16:14:10.971] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:11.080] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:11.080] [info] encode params: width=1280
+[2023-11-27 16:14:11.080] [info] encode params: height=720
+[2023-11-27 16:14:11.080] [info] encode params: gop=30
+[2023-11-27 16:14:11.080] [info] encode params: gop_preset=3
+[2023-11-27 16:14:11.080] [info] encode params: framerate=25
+[2023-11-27 16:14:11.080] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:14:11.173] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:14:11.174] [info] encode params: width=1280
+[2023-11-27 16:14:11.174] [info] encode params: height=720
+[2023-11-27 16:14:11.174] [info] encode params: gop=30
+[2023-11-27 16:14:11.174] [info] encode params: gop_preset=3
+[2023-11-27 16:14:11.174] [info] encode params: framerate=25
+[2023-11-27 16:14:11.174] [info] encode params: bitrate=2000
+[2023-11-27 16:15:26.645] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:26.711] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:26.850] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:26.871] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:26.945] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:15:27.097] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298947
+encoder over, process id: 1298947
+[2023-11-27 16:15:27.138] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:27.200] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:27.281] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:27.318] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:27.342] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:27.346] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:27.382] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:27.396] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:27.528] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:15:27.564] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298946
+encoder over, process id: 1298946
+[2023-11-27 16:15:27.604] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:15:27.623] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298945
+encoder over, process id: 1298945
+[2023-11-27 16:15:27.752] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1298950
+encoder over, process id: 1298950
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.024] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.025] [info] encode params: width=1280
+[2023-11-27 16:15:28.025] [info] encode params: height=720
+[2023-11-27 16:15:28.025] [info] encode params: gop=30
+[2023-11-27 16:15:28.025] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.025] [info] encode params: framerate=25
+[2023-11-27 16:15:28.025] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.168] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.169] [info] encode params: width=1280
+[2023-11-27 16:15:28.169] [info] encode params: height=720
+[2023-11-27 16:15:28.169] [info] encode params: gop=30
+[2023-11-27 16:15:28.169] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.169] [info] encode params: framerate=25
+[2023-11-27 16:15:28.169] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.297] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.298] [info] encode params: width=1280
+[2023-11-27 16:15:28.298] [info] encode params: height=720
+[2023-11-27 16:15:28.298] [info] encode params: gop=30
+[2023-11-27 16:15:28.298] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.298] [info] encode params: framerate=25
+[2023-11-27 16:15:28.298] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.403] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.403] [info] encode params: width=1280
+[2023-11-27 16:15:28.403] [info] encode params: height=720
+[2023-11-27 16:15:28.404] [info] encode params: gop=30
+[2023-11-27 16:15:28.404] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.404] [info] encode params: framerate=25
+[2023-11-27 16:15:28.404] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.542] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.542] [info] encode params: width=1280
+[2023-11-27 16:15:28.543] [info] encode params: height=720
+[2023-11-27 16:15:28.543] [info] encode params: gop=30
+[2023-11-27 16:15:28.543] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.543] [info] encode params: framerate=25
+[2023-11-27 16:15:28.543] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.641] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.643] [info] encode params: width=1280
+[2023-11-27 16:15:28.643] [info] encode params: height=720
+[2023-11-27 16:15:28.643] [info] encode params: gop=30
+[2023-11-27 16:15:28.643] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.643] [info] encode params: framerate=25
+[2023-11-27 16:15:28.643] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:15:28.782] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:15:28.783] [info] encode params: width=1280
+[2023-11-27 16:15:28.783] [info] encode params: height=720
+[2023-11-27 16:15:28.783] [info] encode params: gop=30
+[2023-11-27 16:15:28.783] [info] encode params: gop_preset=3
+[2023-11-27 16:15:28.783] [info] encode params: framerate=25
+[2023-11-27 16:15:28.783] [info] encode params: bitrate=2000
+[2023-11-27 16:16:38.650] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:38.685] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:38.947] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299921
+encoder over, process id: 1299921
+[2023-11-27 16:16:39.995] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:40.046] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.160] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:40.200] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.283] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:40.468] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:40.510] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299922
+encoder over, process id: 1299922
+[2023-11-27 16:16:40.544] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.569] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299925
+encoder over, process id: 1299925
+[2023-11-27 16:16:40.614] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.668] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:16:40.697] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.751] [info] sail.Encoder: released encoder completed.
+[2023-11-27 16:16:40.751] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+decoder over, process id: 1299923
+encoder over, process id: 1299923
+[2023-11-27 16:16:40.773] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:16:40.789] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:16:40.860] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299924
+encoder over, process id: 1299924
+[2023-11-27 16:16:40.915] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299927
+encoder over, process id: 1299927
+[2023-11-27 16:16:40.976] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1299926
+encoder over, process id: 1299926
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.213] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.214] [info] encode params: width=1280
+[2023-11-27 16:16:41.214] [info] encode params: height=720
+[2023-11-27 16:16:41.214] [info] encode params: gop=30
+[2023-11-27 16:16:41.214] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.214] [info] encode params: framerate=25
+[2023-11-27 16:16:41.214] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.426] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.427] [info] encode params: width=1280
+[2023-11-27 16:16:41.427] [info] encode params: height=720
+[2023-11-27 16:16:41.427] [info] encode params: gop=30
+[2023-11-27 16:16:41.427] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.427] [info] encode params: framerate=25
+[2023-11-27 16:16:41.427] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.513] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.514] [info] encode params: width=1280
+[2023-11-27 16:16:41.514] [info] encode params: height=720
+[2023-11-27 16:16:41.514] [info] encode params: gop=30
+[2023-11-27 16:16:41.514] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.514] [info] encode params: framerate=25
+[2023-11-27 16:16:41.514] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.625] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.627] [info] encode params: width=1280
+[2023-11-27 16:16:41.627] [info] encode params: height=720
+[2023-11-27 16:16:41.627] [info] encode params: gop=30
+[2023-11-27 16:16:41.627] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.627] [info] encode params: framerate=25
+[2023-11-27 16:16:41.627] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.733] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.733] [info] encode params: width=1280
+[2023-11-27 16:16:41.734] [info] encode params: height=720
+[2023-11-27 16:16:41.734] [info] encode params: gop=30
+[2023-11-27 16:16:41.734] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.734] [info] encode params: framerate=25
+[2023-11-27 16:16:41.734] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.860] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.860] [info] encode params: width=1280
+[2023-11-27 16:16:41.860] [info] encode params: height=720
+[2023-11-27 16:16:41.860] [info] encode params: gop=30
+[2023-11-27 16:16:41.860] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.860] [info] encode params: framerate=25
+[2023-11-27 16:16:41.861] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:16:41.976] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:16:41.976] [info] encode params: width=1280
+[2023-11-27 16:16:41.976] [info] encode params: height=720
+[2023-11-27 16:16:41.976] [info] encode params: gop=30
+[2023-11-27 16:16:41.976] [info] encode params: gop_preset=3
+[2023-11-27 16:16:41.976] [info] encode params: framerate=25
+[2023-11-27 16:16:41.977] [info] encode params: bitrate=2000
+[2023-11-27 16:17:54.480] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:54.529] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:54.748] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300975
+encoder over, process id: 1300975
+[2023-11-27 16:17:54.818] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:54.873] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:55.166] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300979
+encoder over, process id: 1300979
+[2023-11-27 16:17:55.249] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:55.280] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:55.558] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300977
+encoder over, process id: 1300977
+[2023-11-27 16:17:55.666] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:55.672] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:55.704] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:55.722] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:55.774] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:55.812] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:55.894] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300974
+encoder over, process id: 1300974
+[2023-11-27 16:17:55.947] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300976
+encoder over, process id: 1300976
+[2023-11-27 16:17:55.962] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:17:55.989] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300978
+encoder over, process id: 1300978
+[2023-11-27 16:17:55.995] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:17:56.141] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1300973
+encoder over, process id: 1300973
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:56.397] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:56.397] [info] encode params: width=1280
+[2023-11-27 16:17:56.397] [info] encode params: height=720
+[2023-11-27 16:17:56.397] [info] encode params: gop=30
+[2023-11-27 16:17:56.397] [info] encode params: gop_preset=3
+[2023-11-27 16:17:56.398] [info] encode params: framerate=25
+[2023-11-27 16:17:56.398] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:56.593] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:56.593] [info] encode params: width=1280
+[2023-11-27 16:17:56.593] [info] encode params: height=720
+[2023-11-27 16:17:56.593] [info] encode params: gop=30
+[2023-11-27 16:17:56.593] [info] encode params: gop_preset=3
+[2023-11-27 16:17:56.594] [info] encode params: framerate=25
+[2023-11-27 16:17:56.594] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:56.690] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:56.691] [info] encode params: width=1280
+[2023-11-27 16:17:56.691] [info] encode params: height=720
+[2023-11-27 16:17:56.691] [info] encode params: gop=30
+[2023-11-27 16:17:56.691] [info] encode params: gop_preset=3
+[2023-11-27 16:17:56.691] [info] encode params: framerate=25
+[2023-11-27 16:17:56.691] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:56.888] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:56.889] [info] encode params: width=1280
+[2023-11-27 16:17:56.889] [info] encode params: height=720
+[2023-11-27 16:17:56.889] [info] encode params: gop=30
+[2023-11-27 16:17:56.889] [info] encode params: gop_preset=3
+[2023-11-27 16:17:56.889] [info] encode params: framerate=25
+[2023-11-27 16:17:56.889] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:57.004] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:57.005] [info] encode params: width=1280
+[2023-11-27 16:17:57.005] [info] encode params: height=720
+[2023-11-27 16:17:57.005] [info] encode params: gop=30
+[2023-11-27 16:17:57.005] [info] encode params: gop_preset=3
+[2023-11-27 16:17:57.005] [info] encode params: framerate=25
+[2023-11-27 16:17:57.005] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:57.148] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:57.149] [info] encode params: width=1280
+[2023-11-27 16:17:57.149] [info] encode params: height=720
+[2023-11-27 16:17:57.149] [info] encode params: gop=30
+[2023-11-27 16:17:57.149] [info] encode params: gop_preset=3
+[2023-11-27 16:17:57.149] [info] encode params: framerate=25
+[2023-11-27 16:17:57.149] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:17:57.283] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:17:57.284] [info] encode params: width=1280
+[2023-11-27 16:17:57.284] [info] encode params: height=720
+[2023-11-27 16:17:57.284] [info] encode params: gop=30
+[2023-11-27 16:17:57.284] [info] encode params: gop_preset=3
+[2023-11-27 16:17:57.284] [info] encode params: framerate=25
+[2023-11-27 16:17:57.284] [info] encode params: bitrate=2000
+[2023-11-27 16:19:07.161] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:07.192] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:07.357] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301908
+encoder over, process id: 1301908
+[2023-11-27 16:19:07.819] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:07.874] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.049] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:08.077] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301903
+encoder over, process id: 1301903
+[2023-11-27 16:19:08.099] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.214] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:08.258] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.446] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301907
+encoder over, process id: 1301907
+[2023-11-27 16:19:08.558] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:08.560] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301905
+encoder over, process id: 1301905
+[2023-11-27 16:19:08.584] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:08.599] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.622] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.651] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:19:08.700] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:19:08.769] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301906
+encoder over, process id: 1301906
+[2023-11-27 16:19:08.824] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301904
+encoder over, process id: 1301904
+[2023-11-27 16:19:08.849] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1301909
+encoder over, process id: 1301909
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.076] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.077] [info] encode params: width=1280
+[2023-11-27 16:19:09.077] [info] encode params: height=720
+[2023-11-27 16:19:09.077] [info] encode params: gop=30
+[2023-11-27 16:19:09.077] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.077] [info] encode params: framerate=25
+[2023-11-27 16:19:09.077] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.233] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.233] [info] encode params: width=1280
+[2023-11-27 16:19:09.233] [info] encode params: height=720
+[2023-11-27 16:19:09.233] [info] encode params: gop=30
+[2023-11-27 16:19:09.233] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.233] [info] encode params: framerate=25
+[2023-11-27 16:19:09.234] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.353] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.354] [info] encode params: width=1280
+[2023-11-27 16:19:09.354] [info] encode params: height=720
+[2023-11-27 16:19:09.354] [info] encode params: gop=30
+[2023-11-27 16:19:09.354] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.354] [info] encode params: framerate=25
+[2023-11-27 16:19:09.354] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.492] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.493] [info] encode params: width=1280
+[2023-11-27 16:19:09.493] [info] encode params: height=720
+[2023-11-27 16:19:09.493] [info] encode params: gop=30
+[2023-11-27 16:19:09.493] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.493] [info] encode params: framerate=25
+[2023-11-27 16:19:09.493] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.587] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.588] [info] encode params: width=1280
+[2023-11-27 16:19:09.588] [info] encode params: height=720
+[2023-11-27 16:19:09.588] [info] encode params: gop=30
+[2023-11-27 16:19:09.588] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.588] [info] encode params: framerate=25
+[2023-11-27 16:19:09.588] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.687] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.687] [info] encode params: width=1280
+[2023-11-27 16:19:09.687] [info] encode params: height=720
+[2023-11-27 16:19:09.687] [info] encode params: gop=30
+[2023-11-27 16:19:09.687] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.688] [info] encode params: framerate=25
+[2023-11-27 16:19:09.688] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:19:09.794] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:19:09.795] [info] encode params: width=1280
+[2023-11-27 16:19:09.795] [info] encode params: height=720
+[2023-11-27 16:19:09.795] [info] encode params: gop=30
+[2023-11-27 16:19:09.795] [info] encode params: gop_preset=3
+[2023-11-27 16:19:09.795] [info] encode params: framerate=25
+[2023-11-27 16:19:09.795] [info] encode params: bitrate=2000
+[2023-11-27 16:20:20.761] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:20.801] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:20.986] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.039] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.060] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.170] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302708
+encoder over, process id: 1302708
+[2023-11-27 16:20:21.192] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.197] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.235] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.240] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.256] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.288] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.309] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.369] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:20:21.396] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302707
+encoder over, process id: 1302707
+[2023-11-27 16:20:21.409] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302710
+encoder over, process id: 1302710
+[2023-11-27 16:20:21.434] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302713
+encoder over, process id: 1302713
+[2023-11-27 16:20:21.436] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:20:21.472] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302711
+encoder over, process id: 1302711
+[2023-11-27 16:20:21.478] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302712
+encoder over, process id: 1302712
+[2023-11-27 16:20:21.584] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1302709
+encoder over, process id: 1302709
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:21.821] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:21.822] [info] encode params: width=1280
+[2023-11-27 16:20:21.822] [info] encode params: height=720
+[2023-11-27 16:20:21.822] [info] encode params: gop=30
+[2023-11-27 16:20:21.822] [info] encode params: gop_preset=3
+[2023-11-27 16:20:21.822] [info] encode params: framerate=25
+[2023-11-27 16:20:21.822] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:21.961] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:21.961] [info] encode params: width=1280
+[2023-11-27 16:20:21.961] [info] encode params: height=720
+[2023-11-27 16:20:21.961] [info] encode params: gop=30
+[2023-11-27 16:20:21.961] [info] encode params: gop_preset=3
+[2023-11-27 16:20:21.962] [info] encode params: framerate=25
+[2023-11-27 16:20:21.962] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:22.102] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:22.102] [info] encode params: width=1280
+[2023-11-27 16:20:22.102] [info] encode params: height=720
+[2023-11-27 16:20:22.102] [info] encode params: gop=30
+[2023-11-27 16:20:22.102] [info] encode params: gop_preset=3
+[2023-11-27 16:20:22.102] [info] encode params: framerate=25
+[2023-11-27 16:20:22.103] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:22.213] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:22.214] [info] encode params: width=1280
+[2023-11-27 16:20:22.214] [info] encode params: height=720
+[2023-11-27 16:20:22.214] [info] encode params: gop=30
+[2023-11-27 16:20:22.214] [info] encode params: gop_preset=3
+[2023-11-27 16:20:22.214] [info] encode params: framerate=25
+[2023-11-27 16:20:22.214] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:22.344] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:22.345] [info] encode params: width=1280
+[2023-11-27 16:20:22.345] [info] encode params: height=720
+[2023-11-27 16:20:22.345] [info] encode params: gop=30
+[2023-11-27 16:20:22.345] [info] encode params: gop_preset=3
+[2023-11-27 16:20:22.345] [info] encode params: framerate=25
+[2023-11-27 16:20:22.345] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:22.465] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:22.465] [info] encode params: width=1280
+[2023-11-27 16:20:22.465] [info] encode params: height=720
+[2023-11-27 16:20:22.465] [info] encode params: gop=30
+[2023-11-27 16:20:22.465] [info] encode params: gop_preset=3
+[2023-11-27 16:20:22.465] [info] encode params: framerate=25
+[2023-11-27 16:20:22.465] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:20:22.601] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:20:22.602] [info] encode params: width=1280
+[2023-11-27 16:20:22.602] [info] encode params: height=720
+[2023-11-27 16:20:22.602] [info] encode params: gop=30
+[2023-11-27 16:20:22.603] [info] encode params: gop_preset=3
+[2023-11-27 16:20:22.603] [info] encode params: framerate=25
+[2023-11-27 16:20:22.603] [info] encode params: bitrate=2000
+[2023-11-27 16:21:32.068] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.114] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:32.462] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303517
+encoder over, process id: 1303517
+[2023-11-27 16:21:32.555] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.579] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.593] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:32.598] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:32.633] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.652] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:21:32.659] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:32.815] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303519
+encoder over, process id: 1303519
+[2023-11-27 16:21:32.853] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.969] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:32.996] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:21:33.049] [info] sail.Encoder: released encoder completed.
+[2023-11-27 16:21:33.055] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303521
+encoder over, process id: 1303521
+decoder over, process id: 1303522
+encoder over, process id: 1303522
+[2023-11-27 16:21:33.079] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:33.109] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:33.140] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:21:33.232] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303523
+encoder over, process id: 1303523
+[2023-11-27 16:21:33.264] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303520
+encoder over, process id: 1303520
+[2023-11-27 16:21:33.298] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1303518
+encoder over, process id: 1303518
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:33.520] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:33.521] [info] encode params: width=1280
+[2023-11-27 16:21:33.521] [info] encode params: height=720
+[2023-11-27 16:21:33.521] [info] encode params: gop=30
+[2023-11-27 16:21:33.521] [info] encode params: gop_preset=3
+[2023-11-27 16:21:33.521] [info] encode params: framerate=25
+[2023-11-27 16:21:33.521] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:33.707] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:33.708] [info] encode params: width=1280
+[2023-11-27 16:21:33.708] [info] encode params: height=720
+[2023-11-27 16:21:33.708] [info] encode params: gop=30
+[2023-11-27 16:21:33.708] [info] encode params: gop_preset=3
+[2023-11-27 16:21:33.708] [info] encode params: framerate=25
+[2023-11-27 16:21:33.708] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:33.801] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:33.801] [info] encode params: width=1280
+[2023-11-27 16:21:33.801] [info] encode params: height=720
+[2023-11-27 16:21:33.802] [info] encode params: gop=30
+[2023-11-27 16:21:33.802] [info] encode params: gop_preset=3
+[2023-11-27 16:21:33.802] [info] encode params: framerate=25
+[2023-11-27 16:21:33.802] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:33.898] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:33.898] [info] encode params: width=1280
+[2023-11-27 16:21:33.898] [info] encode params: height=720
+[2023-11-27 16:21:33.898] [info] encode params: gop=30
+[2023-11-27 16:21:33.898] [info] encode params: gop_preset=3
+[2023-11-27 16:21:33.898] [info] encode params: framerate=25
+[2023-11-27 16:21:33.899] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:34.001] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:34.002] [info] encode params: width=1280
+[2023-11-27 16:21:34.002] [info] encode params: height=720
+[2023-11-27 16:21:34.002] [info] encode params: gop=30
+[2023-11-27 16:21:34.002] [info] encode params: gop_preset=3
+[2023-11-27 16:21:34.002] [info] encode params: framerate=25
+[2023-11-27 16:21:34.002] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:34.102] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:34.103] [info] encode params: width=1280
+[2023-11-27 16:21:34.103] [info] encode params: height=720
+[2023-11-27 16:21:34.103] [info] encode params: gop=30
+[2023-11-27 16:21:34.103] [info] encode params: gop_preset=3
+[2023-11-27 16:21:34.103] [info] encode params: framerate=25
+[2023-11-27 16:21:34.103] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:21:34.216] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:21:34.217] [info] encode params: width=1280
+[2023-11-27 16:21:34.217] [info] encode params: height=720
+[2023-11-27 16:21:34.217] [info] encode params: gop=30
+[2023-11-27 16:21:34.217] [info] encode params: gop_preset=3
+[2023-11-27 16:21:34.217] [info] encode params: framerate=25
+[2023-11-27 16:21:34.217] [info] encode params: bitrate=2000
+[2023-11-27 16:22:43.106] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:43.153] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:43.414] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304555
+encoder over, process id: 1304555
+[2023-11-27 16:22:43.551] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:43.591] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:43.805] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:43.853] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:43.864] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:43.881] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304554
+encoder over, process id: 1304554
+[2023-11-27 16:22:43.885] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:22:43.900] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:44.112] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:44.177] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:44.185] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:22:44.365] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304560
+encoder over, process id: 1304560
+[2023-11-27 16:22:44.385] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:44.412] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:44.430] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:22:44.509] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304559
+encoder over, process id: 1304559
+[2023-11-27 16:22:44.532] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304557
+encoder over, process id: 1304557
+[2023-11-27 16:22:44.569] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304561
+encoder over, process id: 1304561
+[2023-11-27 16:22:44.610] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1304558
+encoder over, process id: 1304558
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:44.809] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:44.810] [info] encode params: width=1280
+[2023-11-27 16:22:44.810] [info] encode params: height=720
+[2023-11-27 16:22:44.810] [info] encode params: gop=30
+[2023-11-27 16:22:44.810] [info] encode params: gop_preset=3
+[2023-11-27 16:22:44.810] [info] encode params: framerate=25
+[2023-11-27 16:22:44.810] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.002] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.002] [info] encode params: width=1280
+[2023-11-27 16:22:45.002] [info] encode params: height=720
+[2023-11-27 16:22:45.002] [info] encode params: gop=30
+[2023-11-27 16:22:45.002] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.002] [info] encode params: framerate=25
+[2023-11-27 16:22:45.002] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.126] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.127] [info] encode params: width=1280
+[2023-11-27 16:22:45.127] [info] encode params: height=720
+[2023-11-27 16:22:45.127] [info] encode params: gop=30
+[2023-11-27 16:22:45.127] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.127] [info] encode params: framerate=25
+[2023-11-27 16:22:45.127] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.236] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.237] [info] encode params: width=1280
+[2023-11-27 16:22:45.237] [info] encode params: height=720
+[2023-11-27 16:22:45.237] [info] encode params: gop=30
+[2023-11-27 16:22:45.237] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.237] [info] encode params: framerate=25
+[2023-11-27 16:22:45.237] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.350] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.350] [info] encode params: width=1280
+[2023-11-27 16:22:45.350] [info] encode params: height=720
+[2023-11-27 16:22:45.350] [info] encode params: gop=30
+[2023-11-27 16:22:45.350] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.351] [info] encode params: framerate=25
+[2023-11-27 16:22:45.351] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.481] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.482] [info] encode params: width=1280
+[2023-11-27 16:22:45.482] [info] encode params: height=720
+[2023-11-27 16:22:45.482] [info] encode params: gop=30
+[2023-11-27 16:22:45.482] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.482] [info] encode params: framerate=25
+[2023-11-27 16:22:45.482] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:22:45.584] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:22:45.585] [info] encode params: width=1280
+[2023-11-27 16:22:45.585] [info] encode params: height=720
+[2023-11-27 16:22:45.585] [info] encode params: gop=30
+[2023-11-27 16:22:45.585] [info] encode params: gop_preset=3
+[2023-11-27 16:22:45.585] [info] encode params: framerate=25
+[2023-11-27 16:22:45.585] [info] encode params: bitrate=2000
+[2023-11-27 16:23:57.440] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:57.490] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:57.874] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1305896
+encoder over, process id: 1305896
+[2023-11-27 16:23:58.149] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.200] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.227] [warning] sail.Encoder: encoder no output for one frame in cache queue
+[2023-11-27 16:23:58.254] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.282] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.369] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1305899
+encoder over, process id: 1305899
+[2023-11-27 16:23:58.489] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.531] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.561] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.603] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.607] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.645] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.757] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1305897
+encoder over, process id: 1305897
+[2023-11-27 16:23:58.795] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:23:58.801] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1305901
+encoder over, process id: 1305901
+[2023-11-27 16:23:58.833] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:23:58.993] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1305900
+encoder over, process id: 1305900
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+decoder ctor: filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+open filepath=dmq1.mp4
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.216] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.216] [info] encode params: width=1280
+[2023-11-27 16:23:59.216] [info] encode params: height=720
+[2023-11-27 16:23:59.216] [info] encode params: gop=30
+[2023-11-27 16:23:59.216] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.217] [info] encode params: framerate=25
+[2023-11-27 16:23:59.217] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.392] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.394] [info] encode params: width=1280
+[2023-11-27 16:23:59.394] [info] encode params: height=720
+[2023-11-27 16:23:59.394] [info] encode params: gop=30
+[2023-11-27 16:23:59.394] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.394] [info] encode params: framerate=25
+[2023-11-27 16:23:59.394] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.504] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.505] [info] encode params: width=1280
+[2023-11-27 16:23:59.505] [info] encode params: height=720
+[2023-11-27 16:23:59.505] [info] encode params: gop=30
+[2023-11-27 16:23:59.505] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.505] [info] encode params: framerate=25
+[2023-11-27 16:23:59.505] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.620] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.621] [info] encode params: width=1280
+[2023-11-27 16:23:59.621] [info] encode params: height=720
+[2023-11-27 16:23:59.621] [info] encode params: gop=30
+[2023-11-27 16:23:59.621] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.621] [info] encode params: framerate=25
+[2023-11-27 16:23:59.622] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.737] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.737] [info] encode params: width=1280
+[2023-11-27 16:23:59.737] [info] encode params: height=720
+[2023-11-27 16:23:59.737] [info] encode params: gop=30
+[2023-11-27 16:23:59.737] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.738] [info] encode params: framerate=25
+[2023-11-27 16:23:59.738] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.840] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.841] [info] encode params: width=1280
+[2023-11-27 16:23:59.841] [info] encode params: height=720
+[2023-11-27 16:23:59.841] [info] encode params: gop=30
+[2023-11-27 16:23:59.841] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.841] [info] encode params: framerate=25
+[2023-11-27 16:23:59.841] [info] encode params: bitrate=2000
+libbmvideo.so addr : /opt/sophon/libsophon-current/lib/libbmvideo.so.0, name_len: 34
+vpu firmware addr: /opt/sophon/libsophon-current/lib/vpu_firmware/chagall_dec.bin
+VERSION=0, REVISION=213135
+[2023-11-27 16:23:59.950] [info] sail.Encoder: you are pushing a rtmp stream.
+[2023-11-27 16:23:59.951] [info] encode params: width=1280
+[2023-11-27 16:23:59.951] [info] encode params: height=720
+[2023-11-27 16:23:59.951] [info] encode params: gop=30
+[2023-11-27 16:23:59.951] [info] encode params: gop_preset=3
+[2023-11-27 16:23:59.951] [info] encode params: framerate=25
+[2023-11-27 16:23:59.951] [info] encode params: bitrate=2000
+[2023-11-27 16:25:14.086] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:14.124] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:14.164] [error] sail.Encoder: av_interleaved_write_frame failed for one frame in cache queue: -22
+[2023-11-27 16:25:14.289] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306859
+encoder over, process id: 1306859
+[2023-11-27 16:25:14.812] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:14.850] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:14.926] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:15.004] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:15.004] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:15.009] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:15.043] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:15.070] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:15.203] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:15.235] [info] [cvwrapper.cpp:1339] Decoder read end or err=1
+[2023-11-27 16:25:15.285] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306861
+encoder over, process id: 1306861
+[2023-11-27 16:25:15.292] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306865
+encoder over, process id: 1306865
+[2023-11-27 16:25:15.324] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:15.345] [info] sail.Encoder: released encoder completed.
+[2023-11-27 16:25:15.349] [info] sail.Encoder: releasing encoder.
+[2023-11-27 16:25:15.351] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306864
+encoder over, process id: 1306864
+decoder over, process id: 1306860
+encoder over, process id: 1306860
+[2023-11-27 16:25:15.454] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306862
+encoder over, process id: 1306862
+[2023-11-27 16:25:15.505] [info] sail.Encoder: released encoder completed.
+decoder over, process id: 1306863
+encoder over, process id: 1306863
+Program terminated.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:49->InternalBMCpuRegister]total 1 devices need to enable on-chip CPU. It may need serveral minutes                     for loading, please be patient....
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:97->InternalBMCpuRegister]0/1 devices finished
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:106->InternalBMCpuRegister]device 0 failed to enable on-chip CPU! If not using bmcpu_opencv function, please ignore it.
+[/workspace/middleware-soc/bm_opencv/modules/core/src/cv_bmcpu.cpp:115->~InternalBMCpuRegister]deconstructor function is called
